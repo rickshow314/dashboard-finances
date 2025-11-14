@@ -1,0 +1,22 @@
+# Ignore OS generated files
+.DS_Store
+Thumbs.db
+
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Environment files
+.env
+
+# Node
+node_modules/
+dist/
+.vite/
+
+# Editor
+.vscode/
+
+# archivos sensibles
+.env

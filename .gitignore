@@ -32,3 +32,31 @@ backend/data.db
 
 # IDEs
 .idea/
+
+# Auxiliary/Helper Scripts
+fix_test_routes.py
+normalize_backend.py
+normalize_fields.py
+simplify_list_endpoints.py
+run_tests.py
+
+# Temporary Documentation (stored locally, not in repo)
+ESTADO_FINAL.md
+FINAL_SUMMARY.md
+INTEGRATION_TESTS_RESULTS.md
+INTEGRATION_TESTS_SUMMARY.md
+TESTS_SUMMARY.md
+TESTS_VISUAL_MAP.md
+TEST_COVERAGE.md
+DOCUMENTATION_INDEX.md
+QUICK_START_TESTS.md
+INTEGRATION_TESTS_GUIDE.md
+
+# PR-related files
+PR_BODY.md
+
+# Old backend documentation (now in docs/)
+backend/ARCHITECTURE.md
+backend/INTEGRATION_GUIDE.md
+backend/STRUCTURE.md
+backend/SUMMARY.md
